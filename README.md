@@ -26,7 +26,7 @@ json-server -w ./data/db.json
 npm install -g json-server
 ```
 
-##Stack
+## Stack
 
 [Vue.js](https://vuejs.org/)
 [Pinia](https://pinia.vuejs.org/) (store management)
