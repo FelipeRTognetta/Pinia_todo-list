@@ -2,7 +2,7 @@
 A Vue.js + Pinia study, on store management and api using json server for local development server.
 
 ## How to use this project
-first install all dependencies, using npm
+First install all dependencies. Using npm:
 
 ```npm
 npm install
