@@ -1,15 +1,13 @@
-# pinia-todolist
+# Pinia-todolist
 A Vue.js + Pinia study, on store management and api using json server for local development server.
 
 ## How to use this project
-
 npm install 
 
 npm run dev
 
-## on another terminal you will need to start the json server
-
+## On another terminal you will need to start the json server
 json-server -w ./data/db.json
 
-# if you dont have json server on your machine
+## If you dont have json server on your machine
 npm install -g json-server 
